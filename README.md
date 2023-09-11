@@ -1,6 +1,6 @@
 # Activity 2: Crash Course on C
 
-## Put Name(s) here
+## Michelle
 Folder: `activities_c_practice`
 
 This is an introduction to 
@@ -143,10 +143,10 @@ maximum value for that type, and its number of bytes
 
 | Type              | Max value  | Number Bytes |
 | :-------------:   | :-------:  | :----------: |
-| `unsigned char`   |            |              |
-| `unsigned short`  |            |              |
-| `unsigned int`    |            |              |
-| `unsigned long`   |            |              |
+| `unsigned char`   |   255      |      1       |
+| `unsigned short`  |   65535    |      2       |
+| `unsigned int`    |   65535    |      4       |
+| `unsigned long`   |   65535    |      8       |
 
 
 ### Task 4: Exploring sizes and ranges for signed integer types
